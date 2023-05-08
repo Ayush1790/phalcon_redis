@@ -1,0 +1,17 @@
+{
+    "name": "cedcoss/phalcon_redis_main",
+    "autoload": {
+        "psr-4": {
+            "Cedcoss\\PhalconRedisMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayush1790",
+            "email": "ayushgupta@cedcoss.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.1"
+    }
+}
